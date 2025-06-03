@@ -1,0 +1,62 @@
+.impact_intro{
+    text-align: center;
+    color: #ffffff;
+    padding-top: 50px;
+    font-size: 30px;
+}
+ 
+.impact_paragraph{
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+    padding: 10px 20px 0 20px;
+}
+ 
+.body_impact{
+    background-color: #47733d;
+    width: 90%;
+    border-radius: 10px;
+    margin: auto;
+    padding-bottom: 20px;
+}
+ 
+ 
+.environment_impact, .weather_impact, .cargo_impact, .health_impact{
+    text-align: center;
+    border-radius: 10px;
+    padding: 18px;
+    margin: 30px;
+    background-color: white;
+    color: #000000;
+    transition: all 1s;
+}
+
+.environment_impact h3, .weather_impact h3, .cargo_impact h3, .health_impact h3{
+    padding-bottom: 20px;
+    color: rgb(11, 60, 11);
+}
+
+.environment_impact p, .cargo_impact p, .weather_impact p, .health_impact p {
+    color: rgb(38, 53, 38);
+    padding-top: 20px;
+}
+
+.environment_img{
+    width: 200px;
+    border-radius: 10px;
+}
+
+.rain_img{
+    width: 200px;
+    border-radius: 10px;
+}
+
+.cargo_img{
+    width: 200px;
+    border-radius: 10px;
+}
+
+.health_img{
+    width: 200px;
+    border-radius: 10px;
+}
